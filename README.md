@@ -38,8 +38,7 @@ You can find the dataset from [National Water Quality Monitoring sources](https:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ashishkumar/water-quality-fluctuation-prediction.git
-    cd water-quality-fluctuation-prediction
+ https://github.com/kashish049/water-quality-fluctuation-prediction  
     ```
 
 2. **Create a virtual environment** (optional but recommended):
